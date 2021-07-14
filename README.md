@@ -1,6 +1,7 @@
 # TkinterCalculator
 # SIMPLE CALCULATOR
 ## Introduction:
+![simplecalculator](https://user-images.githubusercontent.com/84695660/125594809-4c6b4581-d531-4472-913f-7ad8651d9338.png)
 
 
 A simple calculator is used for doing adding, subtracting, multiplying and dividing of both whole and decimal number.
