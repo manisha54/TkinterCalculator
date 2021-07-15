@@ -8,7 +8,7 @@ A simple calculator is used for doing adding, subtracting, multiplying and divid
 
 ## Feature of simple calculator:
 * Simple and easy to use
-* Basic mathmatical aoperation
+* Basic mathmatical operation
 * optimized for kids
 
 ## Importance of simple calculator:
